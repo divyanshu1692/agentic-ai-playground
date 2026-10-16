@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer("all-MiniLM-L6-v2") #384
 
-def cosine_similarity(a, b): #cosine similarity is a measure of how similar or close two vectors are.
+def cosine_similarity(a, b):  #cosine similarity is a measure of how similar or close two vectors are.
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b));
 
 # text = "Hello, how are you?"
