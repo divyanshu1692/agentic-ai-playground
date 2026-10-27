@@ -1,0 +1,82 @@
+[
+    {
+        "text": "There are 24 paid leaves in a year.",
+        "is_active": true,
+        "category": "Leave & Attendance"
+    },
+    {
+        "text": "There are 4 sick leaves in a year.",
+        "is_active": true,
+        "category": "Leave & Attendance"
+    },
+    {
+        "text": "There is no casual leave for an employee.",
+        "is_active": true,
+        "category": "Leave & Attendance"
+    },
+    {
+        "text": "Employees can work from home up to 2 days per week with manager approval.",
+        "is_active": true,
+        "category": "Remote Work"
+    },
+    {
+        "text": "Standard working hours are 8 hours per day, excluding breaks.",
+        "is_active": true,
+        "category": "Working Hours"
+    },
+    {
+        "text": "Employees must inform their manager about unexpected absences.",
+        "is_active": true,
+        "category": "Leave & Attendance"
+    },
+    {
+        "text": "Performance reviews are conducted every 6 months.",
+        "is_active": true,
+        "category": "Performance & Reviews"
+    },
+    {
+        "text": "Employees must maintain the confidentiality of company information.",
+        "is_active": true,
+        "category": "Security & Confidentiality"
+    },
+    {
+        "text": "Business expense claims must be submitted within 30 days.",
+        "is_active": true,
+        "category": "Finance & Expenses"
+    },
+    {
+        "text": "Employees must follow the company's code of conduct.",
+        "is_active": true,
+        "category": "Code of Conduct"
+    },
+    {
+        "text": "Overtime work requires prior approval from the reporting manager.",
+        "is_active": true,
+        "category": "Working Hours"
+    },
+    {
+        "text": "Employees must use strong passwords and enable multi-factor authentication.",
+        "is_active": true,
+        "category": "Security & Confidentiality"
+    },
+    {
+        "text": "New employees must complete onboarding within their first 2 weeks.",
+        "is_active": true,
+        "category": "Onboarding"
+    },
+    {
+        "text": "Company laptops and equipment must be used responsibly.",
+        "is_active": true,
+        "category": "Equipment & Assets"
+    },
+    {
+        "text": "Employees must give at least 30 days' notice before resignation, subject to their employment agreement.",
+        "is_active": true,
+        "category": "Separation"
+    },
+    {
+        "text": "Annual salary reviews are conducted based on performance and company policy.",
+        "is_active": true,
+        "category": "Performance & Reviews"
+    }
+]
