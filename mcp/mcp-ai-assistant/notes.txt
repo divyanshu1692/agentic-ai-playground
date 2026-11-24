@@ -1,0 +1,5 @@
+Python is a programming language.
+LangGraph is used to build stateful AI agent workflows.
+MCP stands for Model Context Protocol.
+Groq provides fast inference for large language models.
+React is a JavaScript library for building user interfaces.
